@@ -1,0 +1,1 @@
+# IntelliJ IDEA modules configuration for DBeaver Community

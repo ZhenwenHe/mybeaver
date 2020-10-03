@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver">
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.git.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.net.sshj/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/bundles/org.jkiss.dbeaver.core.nls/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.ui.svg.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.wmi.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/appstore/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/localRepository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.debug.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.git.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.net.sshj.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.nls.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.svg.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/workspace" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/runtime-DBeaverEnterprise.product" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.ext.test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

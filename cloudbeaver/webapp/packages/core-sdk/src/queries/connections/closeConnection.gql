@@ -1,0 +1,16 @@
+mutation closeConnection($id: ID!) {
+  connection: closeConnection(id: $id) {
+    id
+    name
+    description
+    driverId
+    connected
+    readOnly
+
+    authNeeded
+    authModel
+
+    features
+    supportedDataFormats
+  }
+}
